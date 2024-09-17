@@ -7,4 +7,4 @@ La tarea, entonces, es construir y evaluar un modelo para verificar la edad de l
 Para empezar a trabajar en la tarea, tendrás un conjunto de fotografías de personas que indican su edad.
 
 >[!WARNING]
-No se anexan las base de datos de imagenes por cuestiones de privacidad
+No se anexan la base de datos de imagenes por cuestiones de privacidad
