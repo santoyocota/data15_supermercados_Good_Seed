@@ -6,5 +6,5 @@ Los métodos de visión artificial se pueden usar para determinar la edad de una
 La tarea, entonces, es construir y evaluar un modelo para verificar la edad de las personas.
 Para empezar a trabajar en la tarea, tendrás un conjunto de fotografías de personas que indican su edad.
 
->.[!WARNING].
+>[!WARNING]
 No se anexan las base de datos de imagenes por cuestiones de privacidad
